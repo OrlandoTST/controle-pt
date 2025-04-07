@@ -1,0 +1,7 @@
+Numeração,Tipo,Setor,Solicitante,Descrição do Serviço,Data Emissão,Devolvida,Data Devolução,Recebedor,TST Resp. Liberação em área,Status
+061-2025,PTT,al 06,carla,,2025-04-04,Sim,2025-04-04,orlando,,Devolvida
+062-2025,PTT,BASE POLI,DANIEL,,2025-04-04,Sim,2025-04-04,ORLANDO,,Devolvida
+063-2025,PT,sucata,vinicius,,2025-04-04,Sim,2025-04-04,orlando,,Devolvida
+064-2025,PTT,base poli,orlando,,2025-04-04,Sim,2025-04-04,David,,Devolvida
+065-2025,PT,BASE POLI,GABRIEL,TROCA DE LÂMPADAS,2025-04-04,Sim,2025-04-07,david,orlando,Não devolvida
+066-2025,PT,base poli,GABRIEL,trabalho em altura,2025-04-07,Não,,,,Não devolvida
